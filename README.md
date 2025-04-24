@@ -23,9 +23,9 @@
 </div>
 <hr style="border: 1px solid #FF5733;"/><br>
 
+[![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=nicolasthomazini&theme=chartreuse-dark&show_icons=true)](https://wakatime.com/@nicolasthomazini)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicolas-thomazini&theme=chartreuse-dark&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolas-thomazini&hide=TeX&layout=compact&theme=chartreuse-dark&locale=pt-br)
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nicolasthomazini)](https://github.com/nicolas-thomazini/github-readme-stats)
 
 <hr style="border: 1px solid #FF5733;"/>
 <span style="font-size: 21px; font-family: 'Arial', sans-serif;"> 🛠️ Plataformas e Tecnologias </span><hr style="border: 1px solid #FF5733;"/>
