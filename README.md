@@ -23,9 +23,17 @@
 </div>
 <hr style="border: 1px solid #FF5733;"/><br>
 
-[![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=nicolasthomazini&theme=chartreuse-dark&show_icons=true)](https://wakatime.com/@nicolasthomazini)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicolas-thomazini&theme=chartreuse-dark&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolas-thomazini&hide=TeX&layout=compact&theme=chartreuse-dark&locale=pt-br)
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; align-items: center;">
+
+  <a href="https://wakatime.com/@nicolasthomazini" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=nicolasthomazini&theme=chartreuse-dark&show_icons=true" alt="WakaTime Stats" width="420" />
+  </a>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=nicolas-thomazini&theme=chartreuse-dark&show_icons=true" alt="GitHub Stats" width="420" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolas-thomazini&hide=TeX&layout=compact&theme=chartreuse-dark&locale=pt-br" alt="Top Languages" width="420" />
+
+</div>
 
 <hr style="border: 1px solid #FF5733;"/>
 <span style="font-size: 21px; font-family: 'Arial', sans-serif;"> 🛠️ Plataformas e Tecnologias </span><hr style="border: 1px solid #FF5733;"/>
