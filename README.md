@@ -26,7 +26,7 @@
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; align-items: center;">
 
   <a href="https://wakatime.com/@nicolasthomazini" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=nicolasthomazini&theme=chartreuse-dark&show_icons=true" alt="WakaTime Stats" width="420" />
+      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=nicolasthomazini&layout=compact&theme=chartreuse-dark&show_icons=true" alt="WakaTime Stats" width="420" />
   </a>
 
   <img src="https://github-readme-stats.vercel.app/api?username=nicolas-thomazini&theme=chartreuse-dark&show_icons=true" alt="GitHub Stats" width="420" />
