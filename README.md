@@ -11,14 +11,21 @@
 <span style="font-size: 21px; font-family: 'Arial', sans-serif;"> 📫 Contatos</span><hr style="border: 1px solid #FF5733;"/>
 
 <div>
-  <a href="linkedin.com/in/nicolas-thomazini/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href = "mailto:nicolasfrezarimt@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="mailto:nicolasthomazini@proton.me"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank"></a>
+  <a href="https://linkedin.com/in/nicolas-thomazini/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:nicolasfrezarimt@gmail.com?subject=Contato%20via%20portfólio&body=Olá%20Nicolas,%0D%0AGostaria%20de%20falar%20sobre..." target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="mailto:nicolasthomazini@proton.me?subject=Contato%20via%20portfólio&body=Olá%20Nicolas,%0D%0AGostaria%20de%20falar%20sobre..." target="_blank">
+    <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="ProtonMail">
+  </a>
 </div>
 <hr style="border: 1px solid #FF5733;"/><br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicolas-thomazini&theme=chartreuse-dark&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolas-thomazini&hide=TeX&layout=compact&theme=chartreuse-dark&locale=pt-br)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nicolasthomazini)](https://github.com/nicolas-thomazini/github-readme-stats)
 
 <hr style="border: 1px solid #FF5733;"/>
 <span style="font-size: 21px; font-family: 'Arial', sans-serif;"> 🛠️ Plataformas e Tecnologias </span><hr style="border: 1px solid #FF5733;"/>
