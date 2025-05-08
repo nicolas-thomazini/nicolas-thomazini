@@ -1,15 +1,24 @@
 <p align="left"><img src="https://komarev.com/ghpvc/?username=nicolas-thomazini" alt="dexternatan" /></p>
 
-![Status](https://raw.githubusercontent.com/nicolas-thomazini/nicolas-thomazini/main/profile-3d-contrib/profile-night-rainbow.svg)
-| [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=isaac545454&theme=gruvbox&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nicolas-thomazini&theme=gruvbox)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
- | ----------- | ----------- |
-
 </span><hr style="border: 1px solid #FF5733;"/>
 <span style="font-size: 21px; font-family: 'Arial', sans-serif;">Olá Pessoal! Sou o Nicolas Thomazini👋</span><hr style="border: 1px solid #FF5733;"/>
 
 - 🔍 Apaixonado por Machine Learning, Data Science e Desenvolvimento Web.
 - 🎯 Buscando oportunidades para aplicar inteligência de dados em soluções de impacto.
 - 📈 Crio projetos com foco em aprendizado contínuo, escalabilidade e eficiência.
+
+</span><hr style="border: 1px solid #FF5733;"/>
+
+![Status](./profile-3d-contrib/profile-night-rainbow.svg)
+
+</span><hr style="border: 1px solid #FF5733;"/>
+
+| [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nicolas-thomazini&theme=gruvbox&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nicolas-thomazini&theme=gruvbox)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+
+   <div align="center" >
+     <img src="https://github-profile-trophy.vercel.app/?username=nicolas-thomazini&row=1&column=6&theme=gruvbox&margin-w=15&margin-h=15"/>
+  </div>
 
 </span><hr style="border: 1px solid #FF5733;"/>
 <span style="font-size: 21px; font-family: 'Arial', sans-serif;"> 📫 Contatos</span><hr style="border: 1px solid #FF5733;"/>
