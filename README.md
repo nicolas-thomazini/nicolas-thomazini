@@ -3,7 +3,7 @@
 </span><hr style="border: 1px solid #FF5733;"/>
 <span style="font-size: 21px; font-family: 'Arial', sans-serif;">Olá Pessoal! Sou o Nicolas Thomazini👋</span><hr style="border: 1px solid #FF5733;"/>
 
-- 🔍 Apaixonado por Machine Learning, Data Science e Desenvolvimento Web.
+- 🔍 Apaixonado por Machine Learning, Data Science, LLM e derivados de Inteligência Artificial.
 - 🎯 Buscando oportunidades para aplicar inteligência de dados em soluções de impacto.
 - 📈 Crio projetos com foco em aprendizado contínuo, escalabilidade e eficiência.
 
