@@ -22,3 +22,8 @@ jobs:
           git add -A .
           git commit -m "generated"
           git push
+      - name: Forçar commit
+        run: |
+          touch .github/workflows/trigger-update.txt  # Cria um arquivo temporário
+          git add .github/workflows/trigger-update.txt
+          git commit -m "Forçar atualização"
