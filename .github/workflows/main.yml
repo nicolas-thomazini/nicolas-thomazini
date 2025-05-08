@@ -15,6 +15,13 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
+      - name: Atualizar repositório remoto
+        run: |
+          git pull origin main --rebase
+          git push
+      - name: Forçar push
+        run: |
+          git push origin main --force
       - name: Commit & Push
         run: |
           git config user.name github-actions
