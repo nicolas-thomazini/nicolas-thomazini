@@ -1,6 +1,6 @@
 <p align="left"><img src="https://komarev.com/ghpvc/?username=nicolas-thomazini" alt="dexternatan" /></p>
 
-![3D Contributions](./profile-3d-contrib/github-contribution-grid-snake.svg)
+![3D Contributions](./profile-3d-contrib/profile-night-rainbow.svg)
 
 </span><hr style="border: 1px solid #FF5733;"/>
 <span style="font-size: 21px; font-family: 'Arial', sans-serif;">Olá Pessoal! Sou o Nicolas Thomazini👋</span><hr style="border: 1px solid #FF5733;"/>
