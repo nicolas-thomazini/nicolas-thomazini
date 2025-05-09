@@ -24,17 +24,17 @@
 <span style="font-size: 21px; font-family: 'Arial', sans-serif;"> 📫 Contatos</span><hr style="border: 1px solid #FF5733;"/>
 
 <div>
-  <a href="https://linkedin.com/in/nicolas-thomazini/" target="_blank">
+  <a href="https://linkedin.com/in/nicolas-thomazini/">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:nicolasfrezarimt@gmail.com?subject=Contato%20via%20portfólio&body=Olá%20Nicolas,%0D%0AGostaria%20de%20falar%20sobre..." target="_blank">
+  <a href="mailto:nicolasfrezarimt@gmail.com?subject=Contato%20via%20portfólio&body=Olá%20Nicolas,%0D%0AGostaria%20de%20falar%20sobre...">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
-  <a href="mailto:nicolasthomazini@proton.me?subject=Contato%20via%20portfólio&body=Olá%20Nicolas,%0D%0AGostaria%20de%20falar%20sobre..." target="_blank">
+  <a href="mailto:nicolasthomazini@proton.me?subject=Contato%20via%20portfólio&body=Olá%20Nicolas,%0D%0AGostaria%20de%20falar%20sobre...">
     <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="ProtonMail">
   </a>
 </div>
-<hr style="border: 1px solid #FF5733;"/><br>
+<hr style="border: 1px solid #FF5733;" /><br>
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; align-items: center;">
 
