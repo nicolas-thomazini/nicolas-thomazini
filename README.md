@@ -1,3 +1,4 @@
+<p align="left"><img src="https://komarev.com/ghpvc/?username=nicolas-thomazini" alt="dexternatan" /></p>
 </span><hr style="border: 1px solid #FF5733;"/>
 <span style="font-size: 21px; font-family: 'Arial', sans-serif;">Olá Pessoal! Sou o Nicolas Thomazini👋</span><hr style="border: 1px solid #FF5733;"/>
 
