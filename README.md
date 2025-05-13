@@ -1,6 +1,6 @@
 <p align="left"><img src="https://komarev.com/ghpvc/?username=nicolas-thomazini" alt="dexternatan" /></p>
-</span><hr style="border: 1px solid #FF5733;"/>
-<span style="font-size: 21px; font-family: 'Arial', sans-serif;">Olá Pessoal! Sou o Nicolas Thomazini👋</span><hr style="border: 1px solid #FF5733;"/>
+
+# Olá Pessoal! Sou o Nicolas Thomazini👋</span><hr style="border: 1px solid #FF5733;"/>
 
 - 🔍 Apaixonado por Machine Learning, Data Science, LLM e derivados de Inteligência Artificial.
 - 🎯 Buscando oportunidades para aplicar inteligência de dados em soluções de impacto.
@@ -15,7 +15,7 @@
 | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nicolas-thomazini&theme=gruvbox&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nicolas-thomazini&theme=gruvbox)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
-   <div align="center" >
+  <div align="center" >
      <img src="https://github-profile-trophy.vercel.app/?username=nicolas-thomazini&row=1&column=6&theme=gruvbox&margin-w=15&margin-h=15"/>
   </div>
 
@@ -34,6 +34,7 @@
     <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="ProtonMail">
   </a>
 </div>
+
 <hr style="border: 1px solid #FF5733;" /><br>
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; align-items: center;">
