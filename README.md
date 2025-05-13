@@ -1,8 +1,5 @@
-<p align="left"><img src="https://komarev.com/ghpvc/?username=nicolas-thomazini" alt="dexternatan" /></p>
-
-<hr style="border: 1px solid #FF5733;"/>
-
-# Olá Pessoal! Sou o Nicolas Thomazini👋</span>
+</span><hr style="border: 1px solid #FF5733;"/>
+<span style="font-size: 21px; font-family: 'Arial', sans-serif;">Olá Pessoal! Sou o Nicolas Thomazini👋</span><hr style="border: 1px solid #FF5733;"/>
 
 - 🔍 Apaixonado por Machine Learning, Data Science, LLM e derivados de Inteligência Artificial.
 - 🎯 Buscando oportunidades para aplicar inteligência de dados em soluções de impacto.
