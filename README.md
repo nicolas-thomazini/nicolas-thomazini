@@ -1,63 +1,63 @@
-<p align="left"><img src="https://komarev.com/ghpvc/?username=nicolas-thomazini" alt="dexternatan" /></p>
+![Profile Views](https://komarev.com/ghpvc/?username=nicolas-thomazini)
 
-# Olá Pessoal! Sou o Nicolas Thomazini👋</span><hr style="border: 1px solid #FF5733;"/>
+# Hello Everyone! I'm Nicolas Thomazini 👋
 
-- 🔍 Apaixonado por Machine Learning, Data Science, LLM e derivados de Inteligência Artificial.
-- 🎯 Buscando oportunidades para aplicar inteligência de dados em soluções de impacto.
-- 📈 Crio projetos com foco em aprendizado contínuo, escalabilidade e eficiência.
+- 🔍 Passionate about Machine Learning, Data Science, LLMs, and AI-related technologies.
 
-</span><hr style="border: 1px solid #FF5733;"/>
+- 🎯 Seeking opportunities to apply data intelligence in impactful solutions.
+
+- 📈 I build projects focused on continuous learning, scalability, and efficiency.
+
+---
+
+## 📊 GitStats
 
 ![Status](./profile-3d-contrib/profile-night-rainbow.svg)
 
-</span><hr style="border: 1px solid #FF5733;"/>
+---
 
-| [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nicolas-thomazini&theme=gruvbox&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nicolas-thomazini&theme=gruvbox)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nicolas-thomazini&theme=gruvbox&utcOffset=-3)
 
-  <div align="center" >
-     <img src="https://github-profile-trophy.vercel.app/?username=nicolas-thomazini&row=1&column=6&theme=gruvbox&margin-w=15&margin-h=15"/>
-  </div>
+---
 
-</span><hr style="border: 1px solid #FF5733;"/>
+![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nicolas-thomazini&theme=gruvbox)
 
-## 📫 Contatos
+---
 
-<div>
-  <a href="https://linkedin.com/in/nicolas-thomazini/">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:nicolasfrezarimt@gmail.com?subject=Contato%20via%20portfólio&body=Olá%20Nicolas,%0D%0AGostaria%20de%20falar%20sobre...">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-  <a href="mailto:nicolasthomazini@proton.me?subject=Contato%20via%20portfólio&body=Olá%20Nicolas,%0D%0AGostaria%20de%20falar%20sobre...">
-    <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="ProtonMail">
-  </a>
-</div>
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=nicolas-thomazini&row=1&column=6&theme=gruvbox&margin-w=15&margin-h=15)
 
-<hr style="border: 1px solid #FF5733;" /><br>
+---
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; align-items: center;">
-  <a href="https://wakatime.com/@nicolasthomazini" target="_blank">
-      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=nicolasthomazini&layout=compact&theme=chartreuse-dark&show_icons=true&cache_seconds=30" alt="WakaTime Stats" width="420" />
-  </a>
-  <img src="https://github-readme-stats.vercel.app/api?username=nicolas-thomazini&theme=chartreuse-dark&show_icons=true" alt="GitHub Stats" width="420" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolas-thomazini&hide=TeX&layout=compact&theme=chartreuse-dark&locale=pt-br" alt="Top Languages" width="420" />
-</div>
+## 📫 Contacts
 
-<hr style="border: 1px solid #FF5733;"/>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nicolas-thomazini/)
+[![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nicolasfrezarimt@gmail.com?subject=Contato%20via%20portfólio&body=Olá%20Nicolas,%0D%0AGostaria%20de%20falar%20sobre...)
+[![ProtonMail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:nicolasthomazini@proton.me?subject=Contato%20via%20portfólio&body=Olá%20Nicolas,%0D%0AGostaria%20de%20falar%20sobre...)
 
-## 🛠️ Plataformas e Tecnologias
+---
+
+## ⏱️ Coding Time & Programming Languages
+
+[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=nicolasthomazini&layout=compact&theme=chartreuse-dark&show_icons=true&cache_seconds=30)](https://wakatime.com/@nicolasthomazini)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nicolas-thomazini&theme=chartreuse-dark&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolas-thomazini&hide=TeX&layout=compact&theme=chartreuse-dark&locale=pt-br)
+
+---
+
+## 🛠️ Platforms and Technologies
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Rust](https://img.shields.io/badge/Rust-000000.svg?style=for-the-badge&logo=Rust&logoColor=white)
+![Golang](https://img.shields.io/badge/Go-00ADD8.svg?style=for-the-badge&logo=Go&logoColor=white)
 ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![MlFlow](https://img.shields.io/badge/MLflow-0194E2.svg?style=for-the-badge&logo=MLflow&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20.svg?style=for-the-badge&logo=Apache-Kafka&logoColor=white)
 ![Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C.svg?style=for-the-badge&logo=Apache-Spark&logoColor=white)
 ![Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE.svg?style=for-the-badge&logo=Apache-Airflow&logoColor=white)
@@ -77,41 +77,40 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-<hr style="border: 1px solid #FF5733;"/>
+---
 
 ## 📌 Hard Skills
 
-🐍 Linguagens de Programação: Python (pandas, numpy, scikit-learn), SQL
+- 🐍 Programming Languages: Python (pandas, numpy, scikit-learn), SQL
 
-📊 Visualização de Dados: Power BI, matplotlib, seaborn
+- 📊 Data Visualization: Power BI, matplotlib, seaborn
 
-🔍 Modelagem Preditiva: Regressão, classificação, métricas de desempenho
+- 🔍 Predictive Modeling: Regression, classification, performance metrics
 
-⚙️ Engenharia de Dados: Apache Spark, Airflow, ETL, Data Lakes
+- ⚙️ Data Engineering: Apache Spark, Airflow, ETL, Data Lakes
 
-🧹 Manipulação de Dados: Limpeza, transformação e análise de dados estruturados
+- 🧹 Data Handling: Cleaning, transforming, and analyzing structured data
 
-🔧 Conceitos de Computação: Algoritmos, estruturas de dados, lógica
+- 🔧 Computer Science Concepts: Algorithms, data structures, logic
 
-🌐 Integração com APIs: FastAPI, consumo de APIs REST (OpenAI, Mistral etc.)
+- 🌐 API Integration: FastAPI, REST API consumption (OpenAI, Mistral, etc.)
 
-🔄 Versionamento: Git e GitHub
+- 🔄 Version Control: Git and GitHub
 
-🗣️ Apresentação de Resultados: Data storytelling, construção de relatórios, dashboards
+- 🗣️ Results Presentation: Data storytelling, reports, dashboards
 
-<hr style="border: 1px solid #FF5733;"/>
+---
 
-## 🚀 Projetos em Destaque
+## 🚀 Featured Projects
 
-<hr style="border: 1px solid #FF5733;"/>
-<br>
+---
 
-> LLM Zoomcamp – Pipelines com LLMs, LangChain, RAG e integração de APIs
+> `ml_solana_predict` – API using MLFlow for predictive modeling with validation and tests to forecast asset values.
 
-> ML Zoomcamp – Modelagem preditiva com validação e testes
+> `Human Disease Models` – Disease prediction using ML and Deep Learning.
 
-> Sparking_Flow – Orquestração de pipelines com Apache Spark e Airflow
+> `rs-ai-diagnosis` – AI assistant that suggests possible diseases based on symptoms (LLM-based).
 
-> Human Disease Models – Previsão de doenças com ML e Deep Learning
+> `llm_cv_advisor` – AI assistant that enhances LinkedIn profiles, resumes, and GitHub pages (LLM-based).
 
-> DAS BI Data Science – Dashboards dinâmicos com Power BI + SQL
+> `Sparking_Flow` – Pipeline orchestration using Apache Spark and Airflow.
