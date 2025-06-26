@@ -81,13 +81,15 @@
 
 ## 📌 Hard Skills
 
-- 🐍 Programming Languages: Python (pandas, numpy, scikit-learn), SQL
+- 🐍 Programming Languages: Python (pandas, numpy, scikit-learn), Rust, Go, SQL
+
+- 🧠 Machine Learning & LLMs: Model training, fine-tuning, RAG pipelines, embeddings, vector databases
 
 - 📊 Data Visualization: Power BI, matplotlib, seaborn
 
 - 🔍 Predictive Modeling: Regression, classification, performance metrics
 
-- ⚙️ Data Engineering: Apache Spark, Airflow, ETL, Data Lakes
+- ⚙️ Data Engineering: Apache Spark, Airflow, ETL, Data Lakes, MLflow, Kubernetes, Docker, model packaging, deployment on AWS (via Elastic Beanstalk) and GCP
 
 - 🧹 Data Handling: Cleaning, transforming, and analyzing structured data
 
@@ -111,6 +113,6 @@
 
 > `rs-ai-diagnosis` – AI assistant that suggests possible diseases based on symptoms (LLM-based).
 
-> `llm_cv_advisor` – AI assistant that enhances LinkedIn profiles, resumes, and GitHub pages (LLM-based).
+> `docling_document_parser` – PDF parser using AI and OCR to extract text, tables, and images from digital or scanned documents.
 
 > `Sparking_Flow` – Pipeline orchestration using Apache Spark and Airflow.
