@@ -24,7 +24,7 @@
 
 ---
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=nicolas-thomazini&row=1&column=6&theme=gruvbox&margin-w=15&margin-h=15)
+![GitHub Trophies](https://github-profile-trophy.screw-hand.vercel.app/?username=nicolas-thomazini)
 
 ---
 
@@ -39,8 +39,8 @@
 ## ⏱️ Coding Time & Programming Languages
 
 [![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=nicolasthomazini&layout=compact&theme=chartreuse-dark&show_icons=true&cache_seconds=30)](https://wakatime.com/@nicolasthomazini)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nicolas-thomazini&theme=chartreuse-dark&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolas-thomazini&hide=TeX&layout=compact&theme=chartreuse-dark&locale=pt-br)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nicolas-thomazini&theme=chartreuse-dark&show_icons=true&cache_seconds=1800)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolas-thomazini&hide=TeX&layout=compact&theme=chartreuse-dark&locale=pt-br&cache_seconds=1800)
 
 ---
 
